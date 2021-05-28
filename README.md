@@ -1,2 +1,2 @@
 # 2D-Platformer
-Just download the code and unzip; hopefully Unity will read it correctly.
+Just download the code then unzip it; hopefully Unity will read it correctly.
